@@ -1,0 +1,13 @@
+# Image IO
+pillow>=10.3,<11
+
+# OCR wrapper (needs Tesseract binary installed separately)
+pytesseract>=0.3.10
+
+# PaddleOCR for enhanced table detection
+paddleocr>=2.7.0
+paddlepaddle>=2.5.0
+
+# Table/line heuristics (optional but recommended)
+opencv-python>=4.10.0.84
+numpy>=1.26,<3
