@@ -1,5 +1,12 @@
+# Python
 __pycache__
 .env
 .venv
 .DS_Store
 test-images/
+
+# App
+*/bin
+*/node_modules
+*/dist
+*.md5
